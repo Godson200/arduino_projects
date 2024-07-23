@@ -3,6 +3,7 @@
 Ce projet consiste à créer une lampe contrôlée par le son en utilisant un Arduino, un relais et un microphone. Ce projet m'a permis de mieux me familiariser avec les composants matériels et la programmation, renforçant ainsi ma passion pour l'Internet des objets (IoT).
 ## Montage 
 <img height="200px" style="height=100px;width=100px;object-fit:cover" src="./Montage_allumage.jpg" />
+
 ## Matériels utilisés
 
 - Arduino
